@@ -26,4 +26,5 @@ user is able to tell where each individual pixel is. The text was also a design 
 how to select different colors and what color they currently have selected. 
 
 There are a few directions I can take for future improvement. I could add different canvas sizes, tools for drawing,
-more colors and other settings that will allow the program to fit individual user needs. 
+more colors and other settings that will allow the program to fit individual user needs. I could also add features that
+allow users to save their work and export completed drawings.
